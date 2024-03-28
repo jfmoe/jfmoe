@@ -1,19 +1,12 @@
-## Hey there 
+# Hey there <img src="./assets/wave.gif" width="30px" />
 
 I’m Rick Tao, born in 1998. I’m a front-end software engineer.
 
 - 🌱 I’m currently learning TypeScript/React/React Native
 - 🥰 I like Anime/Manga/Game
-- 📫 How to reach me: <a rel="me" href="mailto://taoxfan@outlook.com">taoxfan@outlook.com</a>
+- 📫 Contact me: <a rel="me" href="mailto://taoxfan@outlook.com">taoxfan@outlook.com</a>
 
-<br>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=jfmoe&theme=dark&layout=compact&langs_count=10" />
-</a>
-
-## 🌱 Learning and using
+## Building projects with
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
@@ -29,9 +22,7 @@ I’m Rick Tao, born in 1998. I’m a front-end software engineer.
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
-<br>
-
-## 🧑‍💻 Coding time in the last month
+## Coding time in the last month
 
 <!--START_SECTION:waka-->
 
@@ -44,3 +35,20 @@ Less          1 hr 8 mins     🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake.svg" />
+</picture>
+
+## GitHub status
+
+<a href="">
+    <img height=160px
+         src="https://github-readme-stats.vercel.app/api?username=jfmoe&count_private=true&show_icons=true&theme=vue" />
+</a>
+<a href="">
+    <img height=160px
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmoe&layout=compact" />
+</a>
