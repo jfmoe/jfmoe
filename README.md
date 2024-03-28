@@ -1,4 +1,4 @@
-# Hey there <img src="./assets/wave.gif" width="30px" />
+## Hey there <img src="./assets/wave.gif" width="25px" />
 
 I’m Rick Tao, born in 1998. I’m a front-end software engineer.
 
@@ -36,12 +36,6 @@ Less          1 hr 8 mins     🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake.svg" />
-</picture>
-
 ## GitHub status
 
 <a href="">
@@ -52,3 +46,9 @@ Less          1 hr 8 mins     🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
     <img height=160px
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmoe&layout=compact" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake.svg" />
+</picture>
