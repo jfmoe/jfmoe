@@ -1,20 +1,13 @@
-### Hi there 👋
+## Hey there 
 
-<!--
-**jfmoe/jfmoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Rick Tao, born in 1998. I’m a front-end software engineer.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning TypeScript/React/React Native
+- 🥰 I like Anime/Manga/Game
+- 📫 How to reach me: <a rel="me" href="mailto://taoxfan@outlook.com">taoxfan@outlook.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
+<br>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=jfmoe&theme=dark&layout=compact&langs_count=10" />
