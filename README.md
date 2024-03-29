@@ -38,14 +38,29 @@ JavaScript React   2 hrs 19 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ## GitHub status
 
-<a href="">
-    <img height=160px
-         src="https://github-readme-stats.vercel.app/api?username=jfmoe&count_private=true&show_icons=true&theme=vue" />
-</a>
-<a href="">
-    <img height=160px
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmoe&layout=compact" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jfmoe&count_private=true&show_icons=true&rank_icon=github&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jfmoe&count_private=true&show_icons=true&rank_icon=github&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jfmoe&count_private=true&show_icons=true&rank_icon=github&theme=vue" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmoe&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmoe&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmoe&&size_weight=0.5&count_weight=0.5layout=compact&theme=vue" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jfmoe/jfmoe/output/github-snake-dark.svg" />
